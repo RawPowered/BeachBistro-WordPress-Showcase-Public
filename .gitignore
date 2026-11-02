@@ -1,0 +1,13 @@
+*.mp4
+*.mov
+*.m4v
+*.zip
+*.sql
+*.sql.gz
+**/wp-config.php
+**/uploads/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+/wp-content/

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<varmap project="Beach Bistro WordPress Showcase Public">
+  <var name="--lime" use="Case study frame accent #7fd3e6; theme accent stays tide"/>
+  <var name="pages-url" use="https://rawpowered.github.io/BeachBistro-WordPress-Showcase-Public/"/>
+  <var name="private-showcase" use="RawPowered/BeachBistro-WordPress-Showcase draft source"/>
+</varmap>

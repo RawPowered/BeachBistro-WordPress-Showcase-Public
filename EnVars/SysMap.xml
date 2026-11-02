@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sysmap project="Beach Bistro WordPress Showcase Public">
+  <file path="index.html" role="Public case study"/>
+  <file path="assets/showcase.css" role="Case study layout, tide accent"/>
+  <file path="assets/showcase-favicon.svg" role="BB mark"/>
+  <file path="docs/previews/desktop-fold.jpg" role="Homepage fold capture"/>
+  <file path="README.md" role="Public case study"/>
+  <file path="assets/readme/cover.jpg" role="README cover"/>
+  <file path="assets/readme/desktop-scroll.gif" role="README scroll preview"/>
+  <file path="docs/previews/" role="Lab captures for the README"/>
+  <file path="docs/previews/contact.jpg" role="Contact page with the reservation month"/>
+  <file path="docs/previews/admin/menu-dishes.jpg" role="Dish list"/>
+  <file path="docs/previews/admin/menu-spreadsheet.jpg" role="Menu spreadsheet"/>
+  <file path="docs/previews/admin/menu-kitchen.jpg" role="Kitchen windows"/>
+  <file path="docs/previews/admin/menu-source.jpg" role="Menu source switch"/>
+  <file path="docs/previews/admin/reservations.jpg" role="Reservation setup"/>
+  <file path="performance/2026-11-01/" role="Dated hosted Lighthouse score cards for the README"/>
+</sysmap>
