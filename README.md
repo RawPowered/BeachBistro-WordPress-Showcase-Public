@@ -206,6 +206,16 @@ The tide band tracks the scroll. Reduced motion skips that effect. Homepage spee
 
 **Lab check, November 1, 2026:** Version 0.1.0 was measured on a hosted WordPress 7.1.4 test install running Namecheap’s smallest shared plan, on a subdomain. Cloudflare and a CDN were not used. Performance depends on the host. Lighthouse 12.8.2 scored Performance 74, Accessibility 88, Best Practices 100, and SEO 61 on mobile (simulated Slow 4G), and Performance 92, Accessibility 88, Best Practices 100, and SEO 61 on desktop. Mobile LCP was 6.5 s; desktop LCP was 1.5 s. SEO is held down by the lab `noindex` flag and a missing meta description. The lab URL remains internal. [Score cards](performance/2026-11-01/README.md).
 
+## Gumroad · launch in preparation
+
+- [Beach Bistro restaurant WordPress theme on Gumroad](https://spaceodin.gumroad.com/l/beach-bistro-restaurant-wordpress-theme)
+- [Beach Bistro Menu on Gumroad](https://spaceodin.gumroad.com/l/beach-bistro-menu-wordpress)
+- [Beach Bistro Reservations on Gumroad](https://spaceodin.gumroad.com/l/beach-bistro-reservations-wordpress)
+- [Beach Bistro Loyalty on Gumroad](https://spaceodin.gumroad.com/l/beach-bistro-loyalty-wordpress)
+- [Beach Bistro OpenTable embed add-on on Gumroad](https://spaceodin.gumroad.com/l/beach-bistro-opentable-wordpress)
+
+These product listings are being prepared and are not yet open for purchase. Gumroad may not display an unpublished listing publicly until launch. The project status and verification limits documented in this showcase still apply.
+
 ## Availability
 
 This public repository contains a case study and dated lab captures. The installable WordPress theme and PHP source stay in a separate private repository. Contact [Joseph Edwards](https://github.com/RawPowered) for access and terms.
