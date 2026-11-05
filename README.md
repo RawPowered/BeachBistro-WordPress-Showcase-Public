@@ -206,15 +206,19 @@ The tide band tracks the scroll. Reduced motion skips that effect. Homepage spee
 
 **Lab check, November 1, 2026:** Version 0.1.0 was measured on a hosted WordPress 7.1.4 test install running Namecheap’s smallest shared plan, on a subdomain. Cloudflare and a CDN were not used. Performance depends on the host. Lighthouse 12.8.2 scored Performance 74, Accessibility 88, Best Practices 100, and SEO 61 on mobile (simulated Slow 4G), and Performance 92, Accessibility 88, Best Practices 100, and SEO 61 on desktop. Mobile LCP was 6.5 s; desktop LCP was 1.5 s. SEO is held down by the lab `noindex` flag and a missing meta description. The lab URL remains internal. [Score cards](performance/2026-11-01/README.md).
 
-## Gumroad · launch in preparation
+## Get it on Gumroad
 
-- [Beach Bistro restaurant WordPress theme on Gumroad](https://spaceodin.gumroad.com/l/beach-bistro-restaurant-wordpress-theme)
-- [Beach Bistro Menu on Gumroad](https://spaceodin.gumroad.com/l/beach-bistro-menu-wordpress)
-- [Beach Bistro Reservations on Gumroad](https://spaceodin.gumroad.com/l/beach-bistro-reservations-wordpress)
-- [Beach Bistro Loyalty on Gumroad](https://spaceodin.gumroad.com/l/beach-bistro-loyalty-wordpress)
-- [Beach Bistro OpenTable embed add-on on Gumroad](https://spaceodin.gumroad.com/l/beach-bistro-opentable-wordpress)
+| Product | Price | Purchase |
+| --- | ---: | --- |
+| Beach Bistro photo-free restaurant theme | $49 | [Get the theme](https://spaceodin.gumroad.com/l/beach-bistro-restaurant-wordpress-theme) |
+| Menu · early access | $25 | [Get the add-on](https://spaceodin.gumroad.com/l/beach-bistro-menu-wordpress) |
+| Reservations · early access | $19 | [Get the add-on](https://spaceodin.gumroad.com/l/beach-bistro-reservations-wordpress) |
+| Loyalty · early access | $25 | [Get the add-on](https://spaceodin.gumroad.com/l/beach-bistro-loyalty-wordpress) |
+| OpenTable embed · early access | $15 | [Get the add-on](https://spaceodin.gumroad.com/l/beach-bistro-opentable-wordpress) |
 
-These product listings are being prepared and are not yet open for purchase. Gumroad may not display an unpublished listing publicly until launch. The project status and verification limits documented in this showcase still apply.
+**The theme download is a photo-free starter edition.** Original food/menu artwork, photographs, logos, and decorative raster assets shown in this case study are excluded. Neutral placeholders keep the image slots usable; supply your own licensed images and branding. Image-setup instructions and editable source are included.
+
+Companion plugins are separate purchases designed for the Beach Bistro theme. WooCommerce and restaurant-service accounts are separate where required. Reservations are requests, not automatically confirmed tables. Live account-specific integrations, checkout, and reward redemption require acceptance checks before production use. Review each product page for its current early-access scope.
 
 ## Availability
 
